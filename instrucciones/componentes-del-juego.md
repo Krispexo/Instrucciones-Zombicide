@@ -62,7 +62,7 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 </div>
 
-### <mark style="color:green;">Tarjetas de identificacion de supervivientes</mark>
+### <mark style="color:green;">TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES</mark>&#x20;
 
 6 TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES&#x20;
 
