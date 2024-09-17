@@ -92,3 +92,8 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 
 
+<figure><img src="../.gitbook/assets/Voitures12.jpg" alt=""><figcaption></figcaption></figure>
+
+#### <mark style="color:yellow;">24 CONTADORES DE  AVANCE</mark>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 102754.png" alt=""><figcaption></figcaption></figure>
