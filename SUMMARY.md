@@ -8,7 +8,7 @@
   * [Explicación del inventario](instrucciones/explicacion-del-inventario.md)
   * [Definiciones útiles](instrucciones/definiciones-utiles.md)
   * [Turno de los jugadores](instrucciones/turno-de-los-jugadores.md)
-  * [Truno de los zombis](instrucciones/truno-de-los-zombis.md)
+  * [Turno de los zombis](instrucciones/truno-de-los-zombis.md)
   * [Combate](instrucciones/combate.md)
   * [Resumen del turno](instrucciones/resumen-del-turno.md)
   * [Preparación](instrucciones/preparacion-1.md)
