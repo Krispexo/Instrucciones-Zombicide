@@ -1,40 +1,47 @@
 ---
 icon: biohazard
-description: Aprende a usar los zombies.
 ---
 
 # Turno de los zombies
 
 ## FASE 1- ATACAR.
 
-COMO ATACAR
+Los zombis que se encuentran en la misma Zona que un Superviviente atacarán. Cada zombi inflige daño y obliga al Superviviente a perder una pieza de Equipo. El Superviviente herido recibirá una carta de Herida, la cual reduce su capacidad de llevar objetos.
 
+**Ejemplo**: Un grupo de siete Caminantes está en la misma Zona que un Superviviente. Los dos primeros Caminantes bastan para matar a la desafortunada víctima, pero el resto del grupo no hace nada más. ¡Hora de comer!.
 
-
-### Corredores
-
-Los Corredores tienen dos acciones. Después de la primera acción, repiten inmediatamente la fase 1 (Ataque) o, si no hay nadie a quien atacar, la fase 2 (Movimiento).
-
-
-
-EJEMPLO: Un grupo de siete Caminantes está en la misma Zona que un Superviviente. Los dos primeros Caminantes bastan para matar a la desafortunada víctima, pero el resto del grupo no hace nada más. ¡Hora de comer!.
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## FASE 2- MOVIMIENTO.
 
+Los zombis que no han atacado avanzan hacia los Supervivientes que pueden ver. Si un zombi no ve a ningún Superviviente, avanzará hacia la Zona con más ruido. Los zombis se mueven siguiendo el camino más corto.
 
+**Ejemplo**: Un grupo de cuatro Caminantes y tres Corredores avanza hacia dos Supervivientes. Los zombis se dividen en grupos iguales para seguir varias rutas. Se añade un zombi adicional para mantener el equilibrio entre los grupos.
 
-EJEMPLO: Un grupo de 4 Caminantes, 1 Gordo y 3 Corredores avanza hacia un grupo de Supervivientes. Los zombis pueden tomar dos rutas de la misma longitud. Se dividen en dos grupos. 2 Caminantes van por un lado y los otros 2 van por el otro. El Gordo se une a uno de los dos grupos de Caminantes, ¡y se añade un segundo Gordo que se une al otro grupo! Los 3 Corredores también se dividen, dos por un lado y el otro con el otro grupo. Se añade otro Corredor al último grupo para que el grupo original pueda dividirse en dos grupos idénticos. Las cosas acaban de ponerse mucho más difíciles para los Supervivientes…
+### Tabla de prioridad de movimiento.
+
+| Tipo de Zombi | Acciones   | Movimiento por Turno |
+| ------------- | ---------- | -------------------- |
+| Caminante     | 1 acción   | 1 Zona               |
+| Gordo         | 1 acción   | 1 Zona               |
+| Corredor      | 2 acciones | 2 Zonas              |
+| Abominación   | 1 acción   | 1 Zona               |
+
+Tipo de Zombi Acciones Movimiento por Turno Caminante 1 acción 1 Zona Gordo 1 acción 1 Zona Corredor 2 acciones 2 Zonas Abominación 1 acción 1 Zona
 
 ***
 
 ## FASE 3- APARICION.
 
+Los zombis aparecen al final de cada turno en las Zonas designadas de aparición. El número de zombis que aparece depende del nivel de peligro del Superviviente más experimentado.
 
+### Tabla de aparición según nivel de peligro.
 
-EJEMPLO: Wanda tiene 5 puntos de experiencia, y está en el Nivel de peligro Azul. Doug tiene 12, lo que lo sitúa en el Amarillo. A fi n de determinar cuántos zombis aparecen en el juego, lee la línea amarilla que corresponde a Doug, el Superviviente más experimentado.
+<table><thead><tr><th width="155">Nivel de Peligro</th><th>Caminantes</th><th>Gordos</th><th>Corredores</th><th>Abominaciones</th></tr></thead><tbody><tr><td>Azul</td><td>2</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Amarillo</td><td>4</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Naranja</td><td>6</td><td>2</td><td>2</td><td>1</td></tr><tr><td>Rojo</td><td>8</td><td>3</td><td>3</td><td>1</td></tr></tbody></table>
 
+\
+**Ejemplo**: Wanda tiene 5 puntos de experiencia (Nivel Azul), pero Doug tiene 12 (Nivel Amarillo). Se utiliza el Nivel Amarillo para determinar cuántos zombis aparecen en el tablero.
 
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
