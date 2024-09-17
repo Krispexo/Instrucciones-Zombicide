@@ -8,6 +8,8 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 ### <mark style="color:green;">**PIEZAS**</mark>
 
+
+
 #### <mark style="color:yellow;">Supervivientes</mark>
 
 6 SUPERVIVIENTES
@@ -97,3 +99,37 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 #### <mark style="color:yellow;">24 CONTADORES DE  AVANCE</mark>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 102754.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### <mark style="color:yellow;">12 FICHAS DE PUERTA</mark>&#x20;
+
+<figure><img src="../.gitbook/assets/s-l1200.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+#### <mark style="color:yellow;">10 FICHAS DE OBJETIVO</mark>&#x20;
+
+<figure><img src="../.gitbook/assets/il_fullxfull.2400168686_afo2.avif" alt=""><figcaption></figcaption></figure>
+
+#### <mark style="color:yellow;">6 FICHAS DE APARICION DE ZOMBIES</mark>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103503.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### <mark style="color:yellow;">1 FICHA DE SALIDA</mark>&#x20;
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103620.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### <mark style="color:yellow;">18 FICHAS DE RUIDO</mark>
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103645.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### <mark style="color:yellow;">1 FICHA DE PRIMER JUGADOR</mark>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
