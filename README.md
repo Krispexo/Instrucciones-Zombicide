@@ -17,7 +17,7 @@ layout:
   pagination:
     visible: true
 ---
-
+ 
 # ZOMBICIDE
 
 ## hola
