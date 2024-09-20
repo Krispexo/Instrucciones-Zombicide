@@ -2,13 +2,11 @@
 
 ### <mark style="color:green;">**TABLERO**</mark>
 
-El juego incluye el tablero con 9  módulos de doble cara&#x20;
+El juego incluye el tablero con 9 módulos de doble cara
 
 <figure><img src="../.gitbook/assets/zombicidetablero.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">**PIEZAS**</mark>
-
-
 
 #### <mark style="color:yellow;">Supervivientes</mark>
 
@@ -16,15 +14,11 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 <figure><img src="../.gitbook/assets/grupo1.webp" alt=""><figcaption></figcaption></figure>
 
-
-
-#### <mark style="color:yellow;">Corredores</mark>&#x20;
+#### <mark style="color:yellow;">Corredores</mark>
 
 16 CORREDORES
 
 <figure><img src="../.gitbook/assets/corredores-berserker-zombicide.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 #### <mark style="color:yellow;">Caminantes</mark>
 
@@ -34,7 +28,7 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 #### <mark style="color:yellow;">Gordos</mark>
 
-8 GORDOS&#x20;
+8 GORDOS
 
 <figure><img src="../.gitbook/assets/como-pintar-gordos-berserker-zombicide.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -46,9 +40,9 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 ### <mark style="color:green;">CARTAS</mark>
 
-42 CARTAS DE ZOMBI&#x20;
+42 CARTAS DE ZOMBI
 
-62 CARTAS DE EQUIPO&#x20;
+62 CARTAS DE EQUIPO
 
 6 CARTAS DE HERIDA
 
@@ -62,9 +56,9 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 </div>
 
-### <mark style="color:green;">TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES</mark>&#x20;
+### <mark style="color:green;">TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES</mark>
 
-6 TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES&#x20;
+6 TARJETAS DE IDENTIFICACION DE SUPERVIVIENTES
 
 <div>
 
@@ -80,35 +74,25 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 </div>
 
-### <mark style="color:green;">OTRAS FICHAS</mark>&#x20;
-
-
+### <mark style="color:green;">OTRAS FICHAS</mark>
 
 #### <mark style="color:yellow;">6 DADOS</mark>
 
 <figure><img src="../.gitbook/assets/61kwNyrS2fL._AC_UF894,1000_QL80_.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 #### <mark style="color:yellow;">4 FICHAS DE COCHE</mark>
-
-
 
 <figure><img src="../.gitbook/assets/Voitures12.jpg" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:yellow;">24 CONTADORES DE  AVANCE</mark>
+#### <mark style="color:yellow;">24 CONTADORES DE AVANCE</mark>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 102754.png" alt=""><figcaption></figcaption></figure>
 
-
-
-#### <mark style="color:yellow;">12 FICHAS DE PUERTA</mark>&#x20;
+#### <mark style="color:yellow;">12 FICHAS DE PUERTA</mark>
 
 <figure><img src="../.gitbook/assets/s-l1200.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-#### <mark style="color:yellow;">10 FICHAS DE OBJETIVO</mark>&#x20;
+#### <mark style="color:yellow;">10 FICHAS DE OBJETIVO</mark>
 
 <figure><img src="../.gitbook/assets/il_fullxfull.2400168686_afo2.avif" alt=""><figcaption></figcaption></figure>
 
@@ -116,20 +100,14 @@ El juego incluye el tablero con 9  módulos de doble cara&#x20;
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103503.png" alt=""><figcaption></figcaption></figure>
 
-
-
-#### <mark style="color:yellow;">1 FICHA DE SALIDA</mark>&#x20;
+#### <mark style="color:yellow;">1 FICHA DE SALIDA</mark>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103620.png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### <mark style="color:yellow;">18 FICHAS DE RUIDO</mark>
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-09-17 103645.png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### <mark style="color:yellow;">1 FICHA DE PRIMER JUGADOR</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
