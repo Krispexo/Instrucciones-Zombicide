@@ -10,7 +10,7 @@ Los zombis que se encuentran en la misma Zona que un Superviviente atacarán. Ca
 
 **Ejemplo**: Un grupo de siete Caminantes está en la misma Zona que un Superviviente. Los dos primeros Caminantes bastan para matar a la desafortunada víctima, pero el resto del grupo no hace nada más. ¡Hora de comer!.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,4 +44,4 @@ Los zombis aparecen al final de cada turno en las Zonas designadas de aparición
 \
 **Ejemplo**: Wanda tiene 5 puntos de experiencia (Nivel Azul), pero Doug tiene 12 (Nivel Amarillo). Se utiliza el Nivel Amarillo para determinar cuántos zombis aparecen en el tablero.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
