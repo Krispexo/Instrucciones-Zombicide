@@ -21,6 +21,8 @@ icon: swords
   * Si Doug tiene dos subfusiles (arma doble), puede disparar con ambos usando una acción, lanzando más dados y eliminando más enemigos.
   * Si Wanda tiene un machete, puede atacar cuerpo a cuerpo a un _Gordo_, eliminándolo con un solo golpe, ya que el machete tiene daño 2.
 
+<figure><img src="../.gitbook/assets/imagen-combate.png" alt=""><figcaption><p>Personajes para el combate.</p></figcaption></figure>
+
 
 
 
